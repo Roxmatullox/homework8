@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.call-menu {
+  width: 1020px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.number a {
+  text-decoration: none;
+  color: white;
+}
+
+.register a {
+  text-decoration: none;
+  color: white;
+}
+
+.menu {
+width: 1020px;
+margin-left:auto ;
+margin-right: auto;
+padding: 15px;
+display: flex;
+justify-content: space-between;
+background-color: #0F0F0F;
+}
+
+.menu h1 {
+  color: white;
+}
+
+.menu-btns a {
+  text-decoration: none;
+  color: white;
+}
+
+.menu-btns {
+  display: flex;
+  gap: 40px;
+}
+
+nav {
+  background-color: black;
+}
+
+.porten {
+  width: 100%;
+  height: 810px;
+  display: flex;
+  justify-content: center;
+  background-image: url(../images/img-1.svg)
+}
+
+.porten h1 {
+  padding: 20px;
+}
+
+
+
+.porten-btn {
+  width: 320px;
+  height: 320px;
+  margin: 160px;
+  background: none;
+  color: white;
+} 
+
+.porten-p {
+  width: 720px;
+}
+
+.porten-p p {
+  color: white;
+  text-align: center;
+}
+
+.watchs {
+  width: 50%;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+}
+
+.watchs-btn {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.watchs h2 {
+  padding: 20px;
+  color: white;
+}
+
+.watchs-btn button{
+  width: 240px;
+  height: 325px;
+}
+
+.watchs-p {
+  display: flex;
+  gap:140px ;
+}
+
+.watchs-p p {
+  color: white;
+}
+
+.img-2 img {
+ width:100%;
+ height:100%;
+ margin: 0;
+}
+
+.shop {
+  width: 100%;
+  display: flex;
+}
+
+footer{
+  background-color:#0F0F0F;
+  text-align: center;
+}
+
+footer h2 {
+  color: white;
+}
+
